@@ -8,7 +8,7 @@
   3. Run the python script by double clicking on it or type: "python meowhook.py"
 ```
 
-Advantages:
+## advantages:
 ```
   1.  Fast
   2.  Easy to use
