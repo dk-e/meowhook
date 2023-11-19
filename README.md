@@ -1,5 +1,10 @@
-# meowhook
-![ss](https://r2.e-z.host/1e931256-a4b9-4b37-b539-feff5e9e0a47/lxc2c3c9.png)
+<h1 align="center">
+    meowhook
+</h1>
+<h3 align="center">
+fast, efficient discord webhook spammer
+</h3>
+<img align="center" src="https://r2.e-z.host/1e931256-a4b9-4b37-b539-feff5e9e0a47/lxc2c3c9.png">
 
 # how to use
 ####  1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=ec5vjIg0bUA
