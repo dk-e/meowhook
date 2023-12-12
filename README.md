@@ -8,7 +8,7 @@ fast, efficient discord webhook spammer
 
 # how to use
 ####  1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=ec5vjIg0bUA
-####  2. Clone this repo - ```git clone https://github.com/injectings/meowhook``` in cmd/pwsh.
+####  2. Clone this repo - ```git clone https://github.com/simuIates/meowhook``` in cmd/pwsh.
 ####  3. Type ```cd meowhook``` in cmd/pwsh.
 ####  4. Run the command ```pip install requests colorama time os``` in cmd/pwsh.
 ####  5. Run the python script by double clicking on it or type: ```python meowhook.py``` in cmd/pwsh.
